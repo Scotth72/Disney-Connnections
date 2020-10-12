@@ -12,7 +12,7 @@ import Compare from './Components/compare';
 function App() {
 
       const [city, setCity] = useState();
-
+//Router setup
   return (
     <Router>
       <div className="App">
