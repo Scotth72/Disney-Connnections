@@ -5,6 +5,7 @@ import { Layout, Card, Row, Col, Divider } from 'antd';
 const cityName = {
   textAlign: 'center',
 };
+//sample card component
 
 const CityCard = props => {
   return (
